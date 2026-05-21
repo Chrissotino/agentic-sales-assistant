@@ -1,0 +1,20 @@
+{
+  "payload": {
+    "account_name": "Müller AG",
+    "contact_name": null,
+    "meeting_type": "on-site",
+    "meeting_summary": "Customer interested in implementation for ~25 users and asked for offer by next Friday.",
+    "customer_interest": "Business application implementation",
+    "products_requested": ["implementation package", "product information"],
+    "requested_follow_up_date": null,
+    "create_task": true,
+    "create_note": true,
+    "create_or_update_deal": true,
+    "prepare_quote_request": true,
+    "prepare_email_draft": true,
+    "send_product_information": true,
+    "urgency": "high",
+    "next_steps": ["Prepare offer request draft", "Schedule follow-up"],
+    "confidence_score": 0.82
+  }
+}
